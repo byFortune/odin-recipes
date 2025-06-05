@@ -1,1 +1,1 @@
-# odin-recipes
+I made 3 webpages, that shows three recipes independently. Also I added a home page to quick acess the recipes. 
